@@ -1,6 +1,6 @@
 Kelompok 6 :
 1. E1E122020 - Muh. Falah Mubaraq
-2. E1E122046 - AULIYA AFIFAH
+2. E1E122046 - Auliya Afifah
 3. E1E122106 - La Ode Pali Aqsan
 4. E1E122145 - WA ODE FAHMI RAMADHANI
 5. E1E122132 - Ninis Putri Arafa

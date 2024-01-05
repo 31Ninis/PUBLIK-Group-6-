@@ -15,7 +15,7 @@ Kelompok 6 :
 14. E1E122008 - DEVY NATALIA NURTIANI
 
 CARA MENGGUNAKAN APLIKASI PUBLIK:
-- import database db_publik.sql pada localhost/phpmyadmin. pastikan nama databasenya adalah db_publik
+-  import database db_publik.sql pada localhost/phpmyadmin. pastikan nama databasenya adalah db_publik
 - lalu pada folder xampp/htdocs dan pastikan folder aplikasi publik telah ada pada htdocs
 - buka pada browser, ketikkan localhost/namafolder.
 - Setelah itu Login dan apabila nik dan password belum ada pada tabel bernama tb_user pada database, maka lakukan registrasi/daftar terlebih dahulu.
